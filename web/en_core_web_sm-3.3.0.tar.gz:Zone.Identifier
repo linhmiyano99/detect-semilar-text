@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://github.com/explosion/spacy-models/releases/tag/en_core_web_sm-3.3.0
+HostUrl=https://objects.githubusercontent.com/github-production-release-asset-2e65be/84940268/c08b06cc-f6b4-46db-9da5-099556b4ab8e?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20220511%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220511T100503Z&X-Amz-Expires=300&X-Amz-Signature=ec92804a9ae1cca8fccd76790c31ce1458ae6d952d381ae0e81a646c0d278f00&X-Amz-SignedHeaders=host&actor_id=32361868&key_id=0&repo_id=84940268&response-content-disposition=attachment%3B%20filename%3Den_core_web_sm-3.3.0.tar.gz&response-content-type=application%2Foctet-stream
